@@ -1,7 +1,12 @@
 # Flathunter
+
+> [!NOTE]  
+> This project got forked and is from now on maintained under: https://github.com/flathunters/flathunter
+
 A python crawler which crawls Immobilienscout24.de and wg-gesucht.de for new appartments and sends the results to a Telegram user
 
 [![Build Status](https://travis-ci.org/NodyHub/flathunter.svg?branch=master)](https://travis-ci.org/NodyHub/flathunter)
+
 
 ## Setup
 Install requirements from ```requirements.txt``` to run execute flathunter properly:
